@@ -1,5 +1,5 @@
 body {
-  font-family: "Helvetica";
+  font-family: "arial";
   background-color: #f5f5f5;
   color: #000000;
   display: flex;
@@ -7,6 +7,12 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+body {
+background-image: urL(темка10.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
 
 .header {
   margin: 40px 0;
